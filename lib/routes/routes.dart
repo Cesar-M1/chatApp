@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import '../pages/chat_page.dart';
+import 'package:flutter_chatv2/pages/chat_page.dart';
 import '../pages/loading_page.dart';
 import '../pages/login_page.dart';
 import '../pages/register_page.dart';
